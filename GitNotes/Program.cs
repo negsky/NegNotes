@@ -10,6 +10,7 @@ namespace GitNotes
     {
         static void Main(string[] args)
         {
+            //
         }
     }
 }
